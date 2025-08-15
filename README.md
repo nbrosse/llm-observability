@@ -2,8 +2,7 @@
 
 This project provides a chatbot demo using FastHTML, Google Gemini (GenAI), and Langfuse for observability and feedback. It includes instructions to launch Langfuse using Docker Compose and to run the chat app locally.
 
-Refer to the associated blog posts for detailed explanations:
-- [LLM Observability with Langfuse and a FastHTML Chatbot - Part 1](https://nbrosse.github.io/posts/llm-observability-part1/)
+Refer to the associated blog post for detailed explanations: [LLM Observability with Langfuse and a FastHTML Chatbot](https://nbrosse.github.io/posts/llm-observability/llm-observability.html).
 
 ## Installation and Setup Guide
 
